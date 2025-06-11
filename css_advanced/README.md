@@ -6,24 +6,6 @@ A responsive HTML landing page for **SmileSchool** — a fun and engaging platfo
 
 > This project is purely static HTML and uses Font Awesome for icons. Local images must be placed in a folder named `images/` in the root directory.
 
-## 📁 Folder Structure
-
-project/
-├── index.html
-├── README.md
-└── images/
-├── 1 (3).png
-├── 6.png
-├── 7.png
-├── 8.png
-├── Bitmap.png
-├── Bitmap (1).png
-├── Bitmap (2).png
-├── Bitmap (3).png
-├── Bitmap (4).png
-└── smile.svg
-
-
 ## 💡 Features
 
 - **Header Navigation** with logo and main links (Course, Pricing, Login)
